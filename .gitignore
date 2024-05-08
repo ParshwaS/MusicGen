@@ -1,3 +1,5 @@
 dataset/*
 !dataset/README.md
 env/
+
+__pycache__/
